@@ -1,4 +1,8 @@
 # TGR Chat Application
+
+DEMO gif:
+![](demo.gif)
+
 What is TGR?
 The Game Room (TGR) is an online chat room where users can come together to chat and play text-based games to win points and climb the global leader board.
 

@@ -1,6 +1,8 @@
 # TGR Chat Application
 
 DEMO gif:
+
+
 ![](demo.gif)
 
 What is TGR?

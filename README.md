@@ -3,7 +3,7 @@
 DEMO gif:
 
 
-<img src="url-to-your-gif.gif" width="300" height="200" alt="Project Demo">
+<img src="demo.gif" width="300" height="200" alt="Project Demo">
 
 What is TGR?
 The Game Room (TGR) is an online chat room where users can come together to chat and play text-based games to win points and climb the global leader board.
